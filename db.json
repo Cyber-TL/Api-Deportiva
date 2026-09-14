@@ -1,0 +1,133 @@
+{
+  "equipo": [
+    {
+      "id": "fEvqyK4Pgqg",
+      "nombre": "Juninho Pernambucano",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/xsnw2u1579298465.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "MED",
+      "esLeyenda": false
+    },
+    {
+      "id": "fwvCN5W4t7I",
+      "nombre": "Kevin De Bruyne",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/627wh81779038446.jpg",
+      "equipoReal": "Napoli",
+      "posicion": "MED",
+      "esLeyenda": false
+    },
+    {
+      "id": "PmMWlpCXxsA",
+      "nombre": "Paolo Maldini",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/gmed2k1711199499.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "DEF",
+      "esLeyenda": true
+    },
+    {
+      "id": "RVORiOPRdJg",
+      "nombre": "Andrea Pirlo",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/s1eujl1689493556.jpg",
+      "equipoReal": "United FC Dubai",
+      "posicion": "MED",
+      "esLeyenda": false
+    },
+    {
+      "id": "pTjLZy6RD3I",
+      "nombre": "Dani Alves",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/31hn0f1725301114.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "DEF",
+      "esLeyenda": true
+    },
+    {
+      "id": "zJhsjFhr99M",
+      "nombre": "Lev Yashin",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/h9husk1594070133.jpg",
+      "equipoReal": "_Deceased Soccer",
+      "posicion": "POR",
+      "esLeyenda": false
+    },
+    {
+      "id": "BDIlj-fVMhk",
+      "nombre": "Roberto Carlos",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/u4uikp1541330867.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "DEF",
+      "esLeyenda": false
+    },
+    {
+      "id": "VD13KlUw-3A",
+      "nombre": "Roberto Carlos",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/u4uikp1541330867.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "DFI",
+      "esLeyenda": false
+    },
+    {
+      "id": "NmfSNJu5wFA",
+      "nombre": "Andrea Pirlo",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/s1eujl1689493556.jpg",
+      "equipoReal": "United FC Dubai",
+      "posicion": "MD",
+      "esLeyenda": false
+    },
+    {
+      "id": "oculwHrJvGI",
+      "nombre": "Ronaldinho",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/2dyq4u1533490608.jpg",
+      "equipoReal": "Ravenna",
+      "posicion": "EI",
+      "esLeyenda": false
+    },
+    {
+      "id": "eVSshcrlApI",
+      "nombre": "Cristiano Ronaldo",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/bkre241600892282.jpg",
+      "equipoReal": "Al-Nassr",
+      "posicion": "DEL",
+      "esLeyenda": false
+    },
+    {
+      "id": "tsFl86sI-Ok",
+      "nombre": "Zinedine Zidane",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/trvvrs1474915622.jpg",
+      "equipoReal": "France",
+      "posicion": "MI",
+      "esLeyenda": false
+    },
+    {
+      "id": "lgPHHLfYo1I",
+      "nombre": "Paolo Maldini",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/gmed2k1711199499.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "MCD",
+      "esLeyenda": true
+    },
+    {
+      "id": "o5_SLP9sWfU",
+      "nombre": "Cafu",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/ussrws1479842265.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "DFD",
+      "esLeyenda": false
+    },
+    {
+      "id": "uXJJ72BBEqE",
+      "nombre": "Ousmane Dembélé",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/2w39ps1778803599.jpg",
+      "equipoReal": "Paris SG",
+      "posicion": "ED",
+      "esLeyenda": false
+    },
+    {
+      "id": "bgyFUmbZWho",
+      "nombre": "Kaka",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/qb0z3x1533486834.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "MCO",
+      "esLeyenda": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
