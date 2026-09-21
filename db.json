@@ -1,132 +1,246 @@
 {
   "equipo": [
     {
-      "id": "fEvqyK4Pgqg",
-      "nombre": "Juninho Pernambucano",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/xsnw2u1579298465.jpg",
-      "equipoReal": "_Retired Soccer",
-      "posicion": "MED",
-      "esLeyenda": false
-    },
-    {
-      "id": "fwvCN5W4t7I",
-      "nombre": "Kevin De Bruyne",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/627wh81779038446.jpg",
-      "equipoReal": "Napoli",
-      "posicion": "MED",
-      "esLeyenda": false
-    },
-    {
-      "id": "PmMWlpCXxsA",
+      "id": "JrOmA37ktmg",
       "nombre": "Paolo Maldini",
       "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/gmed2k1711199499.jpg",
       "equipoReal": "_Retired Soccer",
-      "posicion": "DEF",
-      "esLeyenda": true
+      "posicion": "SUP2",
+      "esLeyenda": true,
+      "nacionalidad": "Italy",
+      "nacimiento": "1968-06-26",
+      "altura": ""
     },
     {
-      "id": "RVORiOPRdJg",
-      "nombre": "Andrea Pirlo",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/s1eujl1689493556.jpg",
-      "equipoReal": "United FC Dubai",
-      "posicion": "MED",
-      "esLeyenda": false
-    },
-    {
-      "id": "pTjLZy6RD3I",
-      "nombre": "Dani Alves",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/31hn0f1725301114.jpg",
+      "id": "qibGE5HaZwQ",
+      "nombre": "Carles Puyol",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/ids1521533491419.jpg",
       "equipoReal": "_Retired Soccer",
-      "posicion": "DEF",
-      "esLeyenda": true
+      "posicion": "DFC1",
+      "esLeyenda": false,
+      "nacionalidad": "Spain",
+      "nacimiento": "1978-04-13",
+      "altura": ""
     },
     {
-      "id": "zJhsjFhr99M",
-      "nombre": "Lev Yashin",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/h9husk1594070133.jpg",
-      "equipoReal": "_Deceased Soccer",
-      "posicion": "POR",
-      "esLeyenda": false
+      "id": "-11uETz8LAE",
+      "nombre": "Lionel Messi",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/kpfsvp1725295651.jpg",
+      "equipoReal": "Inter Miami",
+      "posicion": "ED",
+      "esLeyenda": false,
+      "nacionalidad": "Argentina",
+      "nacimiento": "1987-06-24",
+      "altura": ""
     },
     {
-      "id": "BDIlj-fVMhk",
-      "nombre": "Roberto Carlos",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/u4uikp1541330867.jpg",
-      "equipoReal": "_Retired Soccer",
-      "posicion": "DEF",
-      "esLeyenda": false
-    },
-    {
-      "id": "VD13KlUw-3A",
-      "nombre": "Roberto Carlos",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/u4uikp1541330867.jpg",
-      "equipoReal": "_Retired Soccer",
-      "posicion": "DFI",
-      "esLeyenda": false
-    },
-    {
-      "id": "NmfSNJu5wFA",
-      "nombre": "Andrea Pirlo",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/s1eujl1689493556.jpg",
-      "equipoReal": "United FC Dubai",
-      "posicion": "MD",
-      "esLeyenda": false
-    },
-    {
-      "id": "oculwHrJvGI",
+      "id": "i1peITSQQAw",
       "nombre": "Ronaldinho",
       "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/2dyq4u1533490608.jpg",
       "equipoReal": "Ravenna",
       "posicion": "EI",
-      "esLeyenda": false
+      "esLeyenda": false,
+      "nacionalidad": "Brazil",
+      "nacimiento": "1980-03-21",
+      "altura": ""
     },
     {
-      "id": "eVSshcrlApI",
+      "id": "1f9UeqgNQZI",
+      "nombre": "David Beckham",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/gwkk2t1586760011.jpg",
+      "equipoReal": "Inter Miami",
+      "posicion": "MI",
+      "esLeyenda": false,
+      "nacionalidad": "England",
+      "nacimiento": "1975-05-02",
+      "altura": ""
+    },
+    {
+      "id": "H4wZXb16bwg",
+      "nombre": "Wayne Rooney",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/w561fs1732109007.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "SUP3",
+      "esLeyenda": true,
+      "nacionalidad": "England",
+      "nacimiento": "1985-10-24",
+      "altura": ""
+    },
+    {
+      "id": "Agtn5VpuImg",
+      "nombre": "Ferenc Puskás",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/j3etee1596140507.jpg",
+      "equipoReal": "_Deceased Soccer",
+      "posicion": "SUP6",
+      "esLeyenda": false,
+      "nacionalidad": "Hungary",
+      "nacimiento": "1927-04-01",
+      "altura": ""
+    },
+    {
+      "id": "u4WLfThtGM4",
+      "nombre": "Jaap Stam",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/cmw3tp1488745665.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "SUP5",
+      "esLeyenda": true,
+      "nacionalidad": "The Netherlands",
+      "nacimiento": "1972-07-17",
+      "altura": ""
+    },
+    {
+      "id": "eT7stONMwiw",
+      "nombre": "Lothar Matthäus",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/wg4p4e1530037991.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "MCD",
+      "esLeyenda": false,
+      "nacionalidad": "Germany",
+      "nacimiento": "1961-03-21",
+      "altura": ""
+    },
+    {
+      "id": "icZbclsklHA",
+      "nombre": "Sergio Ramos",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/4qhc7x1712489854.jpg",
+      "equipoReal": "_Free Agent Soccer",
+      "posicion": "DFC2",
+      "esLeyenda": false,
+      "nacionalidad": "Spain",
+      "nacimiento": "1986-03-30",
+      "altura": ""
+    },
+    {
+      "id": "_xwT26Yq4oA",
+      "nombre": "Javier Zanetti",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/1ckhe11492174949.jpg",
+      "equipoReal": "Inter Milan",
+      "posicion": "DFD",
+      "esLeyenda": false,
+      "nacionalidad": "Argentina",
+      "nacimiento": "1973-08-10",
+      "altura": ""
+    },
+    {
+      "id": "2ZjsR3t3b0I",
+      "nombre": "Iker Casillas",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/ukfm1p1533286137.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "POR",
+      "esLeyenda": false,
+      "nacionalidad": "Spain",
+      "nacimiento": "1981-05-20",
+      "altura": ""
+    },
+    {
+      "id": "UV3NDlwBF6s",
+      "nombre": "Manuel Neuer",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/2wx5jc1779384216.jpg",
+      "equipoReal": "Bayern Munich",
+      "posicion": "SUP7",
+      "esLeyenda": false,
+      "nacionalidad": "Germany",
+      "nacimiento": "1986-03-27",
+      "altura": ""
+    },
+    {
+      "id": "o0WPa7kaALU",
+      "nombre": "Roberto Carlos",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/u4uikp1541330867.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "DFI",
+      "esLeyenda": false,
+      "nacionalidad": "Brazil",
+      "nacimiento": "1973-04-10",
+      "altura": ""
+    },
+    {
+      "id": "XZZ_K1ovs_8",
       "nombre": "Cristiano Ronaldo",
       "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/bkre241600892282.jpg",
       "equipoReal": "Al-Nassr",
       "posicion": "DEL",
-      "esLeyenda": false
+      "esLeyenda": false,
+      "nacionalidad": "Portugal",
+      "nacimiento": "1985-02-05",
+      "altura": ""
     },
     {
-      "id": "tsFl86sI-Ok",
+      "id": "BnnsJP1Bu40",
+      "nombre": "Kylian Mbappé",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/v08cj31778816426.jpg",
+      "equipoReal": "Real Madrid",
+      "posicion": "SUP4",
+      "esLeyenda": false,
+      "nacionalidad": "France",
+      "nacimiento": "1998-12-20",
+      "altura": ""
+    },
+    {
+      "id": "4MO71oRybzA",
       "nombre": "Zinedine Zidane",
       "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/trvvrs1474915622.jpg",
       "equipoReal": "France",
-      "posicion": "MI",
-      "esLeyenda": false
+      "posicion": "SUP1",
+      "esLeyenda": false,
+      "nacionalidad": "France",
+      "nacimiento": "1972-06-23",
+      "altura": ""
     },
     {
-      "id": "lgPHHLfYo1I",
-      "nombre": "Paolo Maldini",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/gmed2k1711199499.jpg",
+      "id": "drvRI3eOBn0",
+      "nombre": "Zinedine Zidane",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/trvvrs1474915622.jpg",
+      "equipoReal": "France",
+      "posicion": "SUP1",
+      "esLeyenda": false,
+      "nacionalidad": "France",
+      "nacimiento": "1972-06-23",
+      "altura": ""
+    },
+    {
+      "id": "wCxR4HKmtOs",
+      "nombre": "Juninho Pernambucano",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/xsnw2u1579298465.jpg",
       "equipoReal": "_Retired Soccer",
-      "posicion": "MCD",
-      "esLeyenda": true
+      "posicion": "SUP1",
+      "esLeyenda": false,
+      "nacionalidad": "Brazil",
+      "nacimiento": "1975-01-30",
+      "altura": ""
     },
     {
-      "id": "o5_SLP9sWfU",
-      "nombre": "Cafu",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/ussrws1479842265.jpg",
+      "id": "3jRs_I5DQxU",
+      "nombre": "Juninho Pernambucano",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/xsnw2u1579298465.jpg",
       "equipoReal": "_Retired Soccer",
-      "posicion": "DFD",
-      "esLeyenda": false
+      "posicion": "SUP1",
+      "esLeyenda": false,
+      "nacionalidad": "Brazil",
+      "nacimiento": "1975-01-30",
+      "altura": ""
     },
     {
-      "id": "uXJJ72BBEqE",
-      "nombre": "Ousmane Dembélé",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/2w39ps1778803599.jpg",
-      "equipoReal": "Paris SG",
-      "posicion": "ED",
-      "esLeyenda": false
-    },
-    {
-      "id": "bgyFUmbZWho",
-      "nombre": "Kaka",
-      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/qb0z3x1533486834.jpg",
+      "id": "qC4TDlUr48k",
+      "nombre": "Juninho Pernambucano",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/xsnw2u1579298465.jpg",
       "equipoReal": "_Retired Soccer",
-      "posicion": "MCO",
-      "esLeyenda": false
+      "posicion": "SUP1",
+      "esLeyenda": false,
+      "nacionalidad": "Brazil",
+      "nacimiento": "1975-01-30",
+      "altura": ""
+    },
+    {
+      "id": "eN9ge2TKdcA",
+      "nombre": "Juninho Pernambucano",
+      "imagen": "https://r2.thesportsdb.com/images/media/player/thumb/xsnw2u1579298465.jpg",
+      "equipoReal": "_Retired Soccer",
+      "posicion": "MD",
+      "esLeyenda": false,
+      "nacionalidad": "Brazil",
+      "nacimiento": "1975-01-30",
+      "altura": ""
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
